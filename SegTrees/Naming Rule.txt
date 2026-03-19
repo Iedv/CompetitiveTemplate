@@ -1,0 +1,22 @@
+P : Point
+R : Range
+U : Update
+Q : Query
+B : Binary Search
+Z : Lazy Tag
+ZZ : Permanent Tag
+On : n Operations
+M : Min/Max
+A : Add
+X : Multiply
+S : Set
+D : with Mod
+G : Dynamic Vertices (great array)
+L : Persistent (long term)
+A : with QOL (apple)
+FINAL : a ideal version that covers all(most) possible combination
+
+Examples:
+1. PMU-RMQ-A : point min/max update and range min/max query SegTree with QOL
+2. RAU-RXU-RAQ-Z : range add update, range multiply update and range sum query with lazy tag
+3. PSU-PQ-G : dynamic vertices SegTree used as array (long long -> any map)
