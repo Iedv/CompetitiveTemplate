@@ -1,6 +1,6 @@
 # Competitive Template
 
-算法竞赛模版
+个人算法竞赛模版
 
 ## 主要用途
 
